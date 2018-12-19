@@ -2,7 +2,7 @@
 
 This is a pairing task I completed with my pair, Elliot.
 
-## What we did over both branches ££
+## What we did over both branches ##
 
 ```
 We completed the fizzbuzz kata on the master branch using TDD and Rspec to run tests.
